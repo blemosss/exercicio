@@ -1,0 +1,1 @@
+print=input(introduza sua idade)
